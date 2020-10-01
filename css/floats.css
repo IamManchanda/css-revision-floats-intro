@@ -79,7 +79,7 @@ div img {
   }
 }
 
-/* Layout Debugging */
+/* Debug Layout */
 body.debug-layout .col-1-2,
 body.debug-layout .col-1-4 {
   background-color: #ffc;
